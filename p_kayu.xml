@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<drwood xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="kayu.xsd">
+	<kayu kode="K1001">
+		<nama>Jati</nama>
+		<satuan>batang</satuan>
+		<harga>250000</harga>
+		<jumlah>150</jumlah>
+		<jenis>gelondongan</jenis>
+		<asal>Kalimantan Barat</asal>
+		<pemesan>Kindi Herdiansyah</pemesan>
+		<telepon>085274725275</telepon>
+		<email>kherdi@gmail.com</email>
+		<tanggal>02/04/2009</tanggal>
+		<pembayaran>Cash</pembayaran>
+	</kayu>
+	<kayu kode="K1002">
+		<nama>Mahoni</nama>
+		<satuan>batang</satuan>
+		<harga>30000</harga>
+		<jumlah>250</jumlah>
+		<jenis>olahan</jenis>
+		<asal>Sulawesi Tengah</asal>
+		<pemesan>Maulyanda</pemesan>
+		<telepon>08568615138</telepon>
+		<email>maulyanda@gmail.com</email>
+		<tanggal>15/07/2007</tanggal>
+		<pembayaran>Cash</pembayaran>
+	</kayu>
+	<kayu kode="K1003">
+		<nama>Akasia</nama>
+		<satuan>batang</satuan>
+		<harga>230000</harga>
+		<jumlah>80</jumlah>
+		<jenis>gelondongan</jenis>
+		<asal>Maluku</asal>
+		<pemesan>Indra Riksa</pemesan>
+		<telepon>085274705887</telepon>
+		<email>indraR@gmail.com</email>
+		<tanggal>03/10/2009</tanggal>
+		<pembayaran>Transfer</pembayaran>
+	</kayu>
+	<kayu kode="K1004">
+		<nama>Trembesi</nama>
+		<satuan>batang</satuan>
+		<harga>152000</harga>
+		<jumlah>350</jumlah>
+		<jenis>gelondongan</jenis>
+		<asal>Riau</asal>
+		<pemesan>Berlin Mitra</pemesan>
+		<telepon>081282911493</telepon>
+		<email>berlinmitraa@gmail.com</email>
+		<tanggal>26/05/2008</tanggal>
+		<pembayaran>Cash</pembayaran>
+	</kayu>
+	<kayu kode="K1005">
+		<nama>Kamper</nama>
+		<satuan>batang</satuan>
+		<harga>25000</harga>
+		<jumlah>95</jumlah>
+		<jenis>olahan</jenis>
+		<asal>Nusa Tenggara Timur</asal>
+		<pemesan>Agien Farhan</pemesan>
+		<telepon>085693314727</telepon>
+		<email>agienfarhan@gmail.com</email>
+		<tanggal>10/02/2011</tanggal>
+		<pembayaran>Transfer</pembayaran>
+	</kayu>
+</drwood>
