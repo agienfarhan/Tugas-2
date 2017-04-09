@@ -2,7 +2,7 @@
 
 Web Service - XSD 1154012 - Agien Farhan Saputra - D4TI2A
 
-XML Schema (XSD) merupakan script XML untuk membinding field baik berupa nama, caption, atau value dari field tersebut.
+XML Schema menggambarkan struktur dokumen XML.
 
 File xml dapat diintegrasikan dengan berbagai project, untuk keperluan praktikum ini kita akan membuat project tidak utuh, hanya membuat file xml dan xsd dengan tools dan plugin eclipse, kemudian memeriksa apakah dokumen tersebut valid, well form.
 
